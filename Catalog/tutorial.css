@@ -1,0 +1,82 @@
+h1 {
+    font-size: 32px;    
+    font-weight: bold;
+}
+
+hr {
+    background-color: rgb(206, 217, 224);
+    border: 0;
+    height: 2px;
+    padding: 0;   
+    margin: 5px;
+
+}
+
+h2 {
+    padding-top: 20px;
+   
+}
+
+h3 {
+    padding-top: 30px;
+}
+
+li {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color: #182026;
+    min-width: 1020px;
+    font-size: 18px;
+    width: 400px; /* Ширина слоя в пикселах */
+    margin: 0 auto; /* Отступ слева и справа */
+    background: #F5F8FA; /* Цвет фона */
+    padding: 10px; /* Поля вокруг текста */
+    text-align: left; /* Выравнивание содержимого слоя по левому краю */
+}
+
+.main-name {
+    color: #394B59;
+}
+
+.header-section-text {
+    color: #394B59;
+}
+
+.header-caption-text {
+    color: #394B59;
+}
+
+b {
+    color: #da4b50;
+}
+
+strong {
+    color: #394B59;
+}
+
+.header-section-text-instruction {
+padding-top: 30px;
+padding-bottom: 0px;
+color: #394B59;
+}
+
+.header-caption-text-step1 {
+    color: #394B59;
+    padding-top: 20px;
+}
+
+.image {
+    padding-top: 10px;
+}
+
+p {
+    line-height: 1.8;
+}
+
+a {
+    color: #2B95D6;
+}
