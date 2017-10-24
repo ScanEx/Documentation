@@ -1,0 +1,2 @@
+# Documentation
+Scanex projects documentation
